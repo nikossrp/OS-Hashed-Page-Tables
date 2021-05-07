@@ -1,4 +1,4 @@
-# Memory Management System Simulator using LRU, SC algorithms
+# Memory Management System Simulator using LRU / SC algorithm
 
 <p><h3>Compile</h3></p>
 make
