@@ -1,4 +1,4 @@
-# OS-Hashed-Page-Tables
+# OS Hashed Page Tables (LRU, SC algorithms)
 
 <p><h3>Compile</h3></p>
 make
