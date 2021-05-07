@@ -26,7 +26,6 @@ class HashPageTable {
 };
 
 
-/*Prepei to kathe process na exei kai to diko tou hash page table dialexh 16/12/2020*/
 
 /*Each process has it's own hash page table*/
 class HPT_P1: public HashPageTable {
